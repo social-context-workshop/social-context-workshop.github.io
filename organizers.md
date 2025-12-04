@@ -25,6 +25,49 @@
 
 </div>
 
+<div>
+    <div class="iblock headshotbox "> 
+        <img src="" class="headshot">
+        <div class="headshotname"> Rossana Damiano </div>
+        <a href="#"  target='_blank' class="headshotaffiliation"> AI4Dev, Africa </a>
+    </div>
+
+    <div class="iblock headshotbox "> 
+        <img src="" class="headshot">
+        <div class="headshotname"> Simona Frenda </div>
+        <a href="#"  target='_blank' class="headshotaffiliation"> University of Pretoria, ZA </a>
+    </div>
+    <div class="iblock headshotbox "> 
+        <img src="" class="headshot">
+        <div class="headshotname"> Roman Klinger </div>
+        <a href="#"  target='_blank' class="headshotaffiliation">Knowledge for All Foundation</a>
+    </div>
+
+
+</div>
+
+<div>
+    <div class="iblock headshotbox "> 
+        <img src="" class="headshot">
+        <div class="headshotname"> Viviana Patti </div>
+        <a href="#"  target='_blank' class="headshotaffiliation"> AI4Dev, Africa </a>
+    </div>
+
+    <div class="iblock headshotbox "> 
+        <img src="" class="headshot">
+        <div class="headshotname"> Maarten Sap </div>
+        <a href="#"  target='_blank' class="headshotaffiliation"> University of Pretoria, ZA </a>
+    </div>
+    <div class="iblock headshotbox "> 
+        <img src="" class="headshot">
+        <div class="headshotname"> Seid Muhie Yimam </div>
+        <a href="#"  target='_blank' class="headshotaffiliation">Knowledge for All Foundation</a>
+    </div>
+
+
+</div>
+
+
 
 ## Programme Chair
 
