@@ -69,17 +69,6 @@
 
 
 
-## Programme Chair
-
-<div>
-
-     <div class="iblock headshotbox "> 
-        <img src="{{basepath}}/images/organizers/laura.jpeg" class="headshot">
-        <div class="headshotname"> Laura Martinus </div>
-        <a href="#"  target='_blank' class="headshotaffiliation"> Explore Data Science, ZA </a>
-    </div>
-</div>
-
 ## Programme Committee
 Thank you to our amazing programme committee for all the time spent on reviews! 
 
