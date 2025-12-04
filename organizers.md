@@ -6,24 +6,67 @@
     
 <div>
     <div class="iblock headshotbox "> 
-        <img src="{{basepath}}/images/organizers/kathleen.jpg" class="headshot">
-        <div class="headshotname"> Kathleen Simunyu </div>
+        <img src="" class="headshot">
+        <div class="headshotname"> Marco Antonio Stranisci </div>
         <a href="#"  target='_blank' class="headshotaffiliation"> AI4Dev, Africa </a>
     </div>
 
     <div class="iblock headshotbox "> 
-        <img src="{{basepath}}/images/organizers/vukosi.jpg" class="headshot">
-        <div class="headshotname"> Vukosi Marivate </div>
+        <img src="" class="headshot">
+        <div class="headshotname"> Soda Marem Lo </div>
         <a href="#"  target='_blank' class="headshotaffiliation"> University of Pretoria, ZA </a>
     </div>
     <div class="iblock headshotbox "> 
-        <img src="{{basepath}}/images/organizers/davor.jpeg" class="headshot">
-        <div class="headshotname"> Davor Orlic </div>
+        <img src="" class="headshot">
+        <div class="headshotname"> Sabine Weber </div>
         <a href="#"  target='_blank' class="headshotaffiliation">Knowledge for All Foundation</a>
     </div>
 
 
 </div>
+
+<div>
+    <div class="iblock headshotbox "> 
+        <img src="" class="headshot">
+        <div class="headshotname"> Marco Antonio Stranisci </div>
+        <a href="#"  target='_blank' class="headshotaffiliation"> AI4Dev, Africa </a>
+    </div>
+
+    <div class="iblock headshotbox "> 
+        <img src="" class="headshot">
+        <div class="headshotname"> Soda Marem Lo </div>
+        <a href="#"  target='_blank' class="headshotaffiliation"> University of Pretoria, ZA </a>
+    </div>
+    <div class="iblock headshotbox "> 
+        <img src="" class="headshot">
+        <div class="headshotname"> Sabine Weber </div>
+        <a href="#"  target='_blank' class="headshotaffiliation">Knowledge for All Foundation</a>
+    </div>
+
+
+</div>
+
+<div>
+    <div class="iblock headshotbox "> 
+        <img src="" class="headshot">
+        <div class="headshotname"> Marco Antonio Stranisci </div>
+        <a href="#"  target='_blank' class="headshotaffiliation"> AI4Dev, Africa </a>
+    </div>
+
+    <div class="iblock headshotbox "> 
+        <img src="" class="headshot">
+        <div class="headshotname"> Soda Marem Lo </div>
+        <a href="#"  target='_blank' class="headshotaffiliation"> University of Pretoria, ZA </a>
+    </div>
+    <div class="iblock headshotbox "> 
+        <img src="" class="headshot">
+        <div class="headshotname"> Sabine Weber </div>
+        <a href="#"  target='_blank' class="headshotaffiliation">Knowledge for All Foundation</a>
+    </div>
+
+
+</div>
+
 
 
 ## Programme Chair
