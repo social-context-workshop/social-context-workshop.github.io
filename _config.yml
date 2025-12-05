@@ -12,8 +12,6 @@ navigation:
   layout: post
 - text: ORGANIZERS
   url: /organizers.html  
-- text: AI4DEV
-  url: /ai4dev.html  
 - text: DATES
   url: /dates.html
   layout: project

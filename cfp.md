@@ -1,58 +1,111 @@
-## Call For Papers
+Joint Call for Papers
 
-The rise in ML community efforts on the African continent has led to a growing interest in Natural Language Processing, particularly for African languages which are typically low resource languages. This interest is manifesting in the form of national, regional, continental and even global collaborative efforts to build corpora, as well as the application of the aggregated corpora to various NLP tasks. 
+Social Context (SoCon) 
+and 
+Integrating NLP and Psychology to Study Social Interactions (NLPSI)  
 
-This workshop therefore has several aims; 
+SoCon and NLPSI will be co-located with the 15th conference on Language Resources and Evaluation (LREC’26), held in Palau de Congressos de Palma, Palma de Mallorca (Spain), on 11-16 May 2026.
 
-- to showcase this work being done by the African NLP community and provide a platform to share this expertise with a global audience interested in NLP techniques for low resource languages
-
-- to provide a platform for the groups involved with the various projects to meet, interact, share and forge closer collaboration 
-
-- to provide a platform for junior researchers to present papers, solutions, and begin interacting with the wider NLP community
-
-- to present an opportunity for more experienced researchers to further publicize their work and inspire younger researchers through keynotes and invited talk
-
-We encourage paper submissions on (but not limited to) the following topics:
-
-### NLP Experiments for African Langauges 
-- Existing NLP techniques but applied to African Languages, but for which published results do not exist, and accompanying analysis
-- NLP techniques developed or adapted *specifically* for African Languages  
-
-### Datasets for NLP for African Languages
-
-- Work that describes the release of a dataset for an African language
-
-### Geographic Diversity in NLP
-
-- Highlight the effects of evaluating models only with English
-- Show the lack of geographic diversity or highlight any problems that are caused as a result of a lack of geographic diversity
-
-### Techniques applicable to African Languages
-
-- NLP techniques for low-resourced languages (Transfer learning, multi-lingual techniques, unsupervised techniques)
-- NLP techniques for morphologically complex Languages
-- NLP techniques to handle large amounts of code-switching
-
-### Challenges for NLP in African Languages
-
-- Work that showcases the challenges of doing NLP for African languages
-
-## Instructions
-
-### Submission
-
-We will accept problem statements and extended abstracts (up to 2 pages + references)
-
-Each 2-page submission will be _eligible_ for oral or poster presentation and may opt-in to be published in an arXiv proceedings.
+Deadline for paper submission: February 6th, 2026
+website: https://socon-nlpsi.github.io
 
 
-### Submission Format
-Contributions should be blinded and submitted using the [ICLR template](https://github.com/ICLR/Master-Template/blob/master/archive/iclr2020.zip) via [Easy Chair](https://easychair.org/account/signin?l=qZCnj1H4ui4honzKaB8tU2#).
+Overview
+Natural Language Processing (NLP) has undergone a significant evolution, opening up the possibility of capturing high-level aspects of human communication. Key areas of interest include the pragmatics, social dynamics, and the integration of social context, to further explore communicative intent. The SoCon and NLPSI workshops share a common interest in the social dimension of communication, although they address distinct challenges.
+ 
+The Social Context Workshop focuses on exploring the mechanisms through which context shapes language use to accurately model it. The workshop takes an interdisciplinary approach, seeking to establish a shared vocabulary on this topic and to explore how NLP can be integrated with Pragmatics, Sociolinguistics, and Sociology. By promoting alternatives to traditional crowdsourcing techniques, it aims to provide a platform for advancing community-centred approaches in NLP.
 
-## Important Dates
+The NLPSI Workshop examines the core psychological processes that shape human behavior and communication, as well as the factors that influence how individuals perceive, process, and produce language, and the impact of these processes on communication. This interdisciplinary workshop welcomes researchers from NLP, Social Psychology, and Affective Computing, intending to conduct large-scale studies that explore key theories and research questions across these domains.
 
-- Submissions deadline:         **February 14, 2020**
-- Notification:                 March 2, 2020
-- Camera ready:                 March 31, 2020
-- Workshop:                     April 26th, 2020
+Driven by the shared interest in human communicative behaviors and interactive dynamics, we announce a joint Call for Papers, organized into two specialized tracks: SoCon and NLPSI. To ensure the most appropriate review and placement, authors should direct their work to the track that best aligns with the core focus of their research contributions.
+
+
+
+SoCon Track
+Towards Responsibly Infusing NLP With Social Context, Community Meanings, and Pragmatics Through Interdisciplinary NLP Efforts.
+
+Language is a situated phenomenon. People use language to communicate within social contexts, where their linguistic choices are influenced by what is considered appropriate or necessary to shape the intended message, such as conventions, background knowledge and relations between participants. The context where these choices take place is characterized by the dynamic interaction of users who constantly switch their roles in a spatio-temporal environment. This often requires an extra-linguistic knowledge of the world to be interpreted, as well as taking into account the set of assumptions and beliefs that shape interpretation.
+
+Natural Language Processing (NLP) has not yet succeeded in accurately modeling these aspects of context. 
+The Social Context track Workshop contributes to the definition of a shared framework for the study and processing of social context in NLP, aiming to foster the dialogue between the NLP community and pragmatics, sociolinguistics and sociology. The track, traditionally interested in studying the influence of context on the construction of social meaning in communication. 
+
+The track welcomes submissions on topics including, but not limited to, the following:
+Adopting interdisciplinary methods for modeling context: exploring the integration of NLP with pragmatics and social sciences.
+Studying social communities: discussion and critical exploration of how to engage with communities of practice (i.e., groups of individuals who engage around a shared domain, developing common practices, norms and identities) and speech communities (i.e., groups that share expectations about language use).
+Investigating ethical challenges in the creation of NLP resources: participatory design, involving communities affected by specific issues (e.g., low-resource language speakers or non-binary, intersex and trans communities)
+Explaining behaviors in social interactions: studying the role of social attitudes, and how to model them as the result of the complex interaction between people's backgrounds, communicative contexts, and events that trigger their behavior. 
+
+For any questions, contact us at  social-context-workshop@googlegroups.com. 
+
+
+NLPSI Track
+Bridging the gap between NLP and psychological insights to foster a deeper understanding of social interactions
+
+As technology transforms communication, understanding individuals within their social interactions is vital for human-centered applications. Psychology offers a rich foundation of theories related to cognition, affect, and social dynamics, while Natural Language Processing facilitates large-scale analysis and generation of text data. Yet, these fields have evolved separately: psychology relies on small, controlled studies, while NLP handles vast text data but often misses underlying human behavior patterns. Recent research trends indicate that psychology research has increasingly leveraged automated text analysis tools, evolving from traditional methods to large language models for a nuanced understanding of human behaviour. Conversely, NLP researchers are integrating established psychological theories to better understand user intentions and behavior in language and enhance the interpretability of models. Despite these promising avenues, a significant knowledge gap remains: NLP researchers often lack familiarity with psychological theories that could inform their analyses, while psychologists may not be up-to-date with the latest state-of-the-art techniques in NLP. 
+
+The NLPSI Workshop aims to bridge thethis gap  between psychology and NLP by fostering collaboration between these fields and encouraging the development of integrative models that enhance our understanding of human communication. The track 
+
+The track welcomes submissions on topics including, but not limited to, the following:
+Psychological constructs: (e.g., beliefs, motives, feelings, affect, personality).
+Psychological studies: especially those focused on interaction.
+Language and social identities: including ethnicity and group affiliation.
+Communication patterns: such as empathy, persuasion, and conflict resolution.
+Role of emotions in interpersonal communication: including phenomena like emotion contagion and interpersonal emotion regulation.
+
+For any questions, contact us at  nlpsi-workshop-organizers.nlproc@uni-bamberg.de.
+
+
+Submission Types
+We welcome the following types of submissions: 
+Long papers (up to 8 pages) that present original research, from preliminary findings to established contributions, including theory, experiments, or applications.
+Short papers (up to 4 pages) that introduce emerging ideas, work in progress, or early-stage research with clear significance.
+Extended Abstracts (up to 2 pages)that present ongoing work, position papers, previously published work, or research projects. Abstracts can be submitted either for inclusion in the proceedings (archival) or as non-archival contributions.
+
+
+Submission Guidelines
+All submissions will be double-blind reviewed 
+Submissions should follow LREC guidelines. Here are all the templates (LaTeX, Word, Open Office, Overleaf LaTeX templates).
+Page limit applies to the main content of the papers. Sections including limitations, ethical considerations, acknowledgements, references and appendices do not count toward this limit.
+Submit through Softconf.
+The proceedings will be submitted for publication through ???.
+When submitting a paper from the START page, authors will be asked to provide essential information about resources (in a broad sense, i.e. also technologies, standards, evaluation kits, etc.) that have been used for the work described in the paper or are a new result of your research. Moreover, ELRA encourages all LREC authors to share the described LRs (data, tools, services, etc.) to enable their reuse and replicability of experiments (including evaluation ones).  In addition, authors will be required to adhere to ethical research policies on AI and should include an ethics statement in their papers. 
+
+Workshop Format
+The workshop will follow the attendance policy of the main conference.
+The workshop will be a full-day event featuring:
+Keynote speeches from leading experts in the field
+Paper presentations (oral and lightning talks)
+interactive activity: annotation lab
+
+
+Important Dates
+Paper submission deadline: February 6th, 2026
+Notification of acceptance: March 13th, 2026
+Camera ready: March 30th 2026
+Workshop day: TBA 
+
+
+Organizers
+
+SoCon
+Marco Antonio Stranisci, Turin University
+Soda Marem Lo, Turin University
+Sabine Weber, Bamberg University
+Rossana Damiano, Turin University
+Simona Frenda, Heriot-Watt University
+Roman Klinger, Bamberg University
+Vivian Patti, Turin University
+Marteen Sap, Carnegie Mellon University
+Seid Muhie Yimam, Hamburg University
+
+NLPSI
+Aswathy Velutharambath, University of Bamberg
+Sofie Labat, Ghent University
+Neele Falk, University of Stuttgart
+Flor Miriam Plaza-del-Arco, Bocconi University
+Roman Klinger, University of Bamberg
+Véronique Hoste, Ghent University
+
+
+
 

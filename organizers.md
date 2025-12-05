@@ -8,18 +8,18 @@
     <div class="iblock headshotbox "> 
         <img src="" class="headshot">
         <div class="headshotname"> Marco Antonio Stranisci </div>
-        <a href="#"  target='_blank' class="headshotaffiliation"> AI4Dev, Africa </a>
+        <a href="#"  target='_blank' class="headshotaffiliation"> University of Turin </a>
     </div>
 
     <div class="iblock headshotbox "> 
         <img src="" class="headshot">
         <div class="headshotname"> Soda Marem Lo </div>
-        <a href="#"  target='_blank' class="headshotaffiliation"> University of Pretoria, ZA </a>
+        <a href="#"  target='_blank' class="headshotaffiliation"> University of Turin </a>
     </div>
     <div class="iblock headshotbox "> 
         <img src="" class="headshot">
         <div class="headshotname"> Sabine Weber </div>
-        <a href="#"  target='_blank' class="headshotaffiliation">Knowledge for All Foundation</a>
+        <a href="#"  target='_blank' class="headshotaffiliation">Bamberg University</a>
     </div>
 
 
@@ -29,18 +29,18 @@
     <div class="iblock headshotbox "> 
         <img src="" class="headshot">
         <div class="headshotname"> Rossana Damiano </div>
-        <a href="#"  target='_blank' class="headshotaffiliation"> AI4Dev, Africa </a>
+        <a href="#"  target='_blank' class="headshotaffiliation"> University of Turin </a>
     </div>
 
     <div class="iblock headshotbox "> 
         <img src="" class="headshot">
         <div class="headshotname"> Simona Frenda </div>
-        <a href="#"  target='_blank' class="headshotaffiliation"> University of Pretoria, ZA </a>
+        <a href="#"  target='_blank' class="headshotaffiliation"> Herriot-Watt University</a>
     </div>
     <div class="iblock headshotbox "> 
         <img src="" class="headshot">
         <div class="headshotname"> Roman Klinger </div>
-        <a href="#"  target='_blank' class="headshotaffiliation">Knowledge for All Foundation</a>
+        <a href="#"  target='_blank' class="headshotaffiliation">Bamberg University</a>
     </div>
 
 
@@ -50,18 +50,18 @@
     <div class="iblock headshotbox "> 
         <img src="" class="headshot">
         <div class="headshotname"> Viviana Patti </div>
-        <a href="#"  target='_blank' class="headshotaffiliation"> AI4Dev, Africa </a>
+        <a href="#"  target='_blank' class="headshotaffiliation"> University of Turin </a>
     </div>
 
     <div class="iblock headshotbox "> 
         <img src="" class="headshot">
         <div class="headshotname"> Maarten Sap </div>
-        <a href="#"  target='_blank' class="headshotaffiliation"> University of Pretoria, ZA </a>
+        <a href="#"  target='_blank' class="headshotaffiliation"> Carnegie Mellon University </a>
     </div>
     <div class="iblock headshotbox "> 
         <img src="" class="headshot">
         <div class="headshotname"> Seid Muhie Yimam </div>
-        <a href="#"  target='_blank' class="headshotaffiliation">Knowledge for All Foundation</a>
+        <a href="#"  target='_blank' class="headshotaffiliation">Hambourg University</a>
     </div>
 
 

@@ -2,7 +2,7 @@
 
 ## Important Dates
 
-- <strike>Submissions deadline:         February 14, 2020, 23h59 - Anywhere on Earth</strike>
-- <strike>Notification:                 Feb 25, 2020</strike>
-- <strike>Camera ready:                 March 31, 2020</strike>
-- Workshop:                     **April 26th, 2020**
+- <strike>Submissions deadline:         February 16, 2026, 23h59 - Anywhere on Earth</strike>
+- <strike>Notification:                 March 23, 2026</strike>
+- <strike>Camera ready:                 March 30, 2026</strike>
+- Workshop:                     **May 12th, 2026**
