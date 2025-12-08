@@ -1,7 +1,9 @@
 ## Social Context Workshop
 
 **Co-located with LREC 2026 – Palma de Mallorca, Spain**
+
 **Palau de Congressos de Palma – 12 May 2026**
+
 **Full ay workshop**
 
 ### About
