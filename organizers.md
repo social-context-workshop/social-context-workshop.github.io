@@ -8,18 +8,18 @@
     <div class="iblock headshotbox "> 
         <img src="" class="headshot">
         <div class="headshotname"> Marco Antonio Stranisci </div>
-        <a href="#"  target='_blank' class="headshotaffiliation"> University of Turin </a>
+        <a href="images/organizers/stranisci.jpeg"  target='_blank' class="headshotaffiliation"> University of Turin </a>
     </div>
 
     <div class="iblock headshotbox "> 
         <img src="" class="headshot">
         <div class="headshotname"> Soda Marem Lo </div>
-        <a href="#"  target='_blank' class="headshotaffiliation"> University of Turin </a>
+        <a href="images/organizers/lo.jpg"  target='_blank' class="headshotaffiliation"> University of Turin </a>
     </div>
     <div class="iblock headshotbox "> 
         <img src="" class="headshot">
         <div class="headshotname"> Sabine Weber </div>
-        <a href="#"  target='_blank' class="headshotaffiliation">Bamberg University</a>
+        <a href="images/organizers/weber.png"  target='_blank' class="headshotaffiliation">Bamberg University</a>
     </div>
 
 
@@ -29,18 +29,18 @@
     <div class="iblock headshotbox "> 
         <img src="" class="headshot">
         <div class="headshotname"> Rossana Damiano </div>
-        <a href="#"  target='_blank' class="headshotaffiliation"> University of Turin </a>
+        <a href="images/organizers/damiano.jpg"  target='_blank' class="headshotaffiliation"> University of Turin </a>
     </div>
 
     <div class="iblock headshotbox "> 
         <img src="" class="headshot">
         <div class="headshotname"> Simona Frenda </div>
-        <a href="#"  target='_blank' class="headshotaffiliation"> Herriot-Watt University</a>
+        <a href="images/organizers/frenda.jpg"  target='_blank' class="headshotaffiliation"> Herriot-Watt University</a>
     </div>
     <div class="iblock headshotbox "> 
         <img src="" class="headshot">
         <div class="headshotname"> Roman Klinger </div>
-        <a href="#"  target='_blank' class="headshotaffiliation">Bamberg University</a>
+        <a href="images/organizers/klinger.jpg"  target='_blank' class="headshotaffiliation">Bamberg University</a>
     </div>
 
 
@@ -50,18 +50,18 @@
     <div class="iblock headshotbox "> 
         <img src="" class="headshot">
         <div class="headshotname"> Viviana Patti </div>
-        <a href="#"  target='_blank' class="headshotaffiliation"> University of Turin </a>
+        <a href="images/organizers/patti.png"  target='_blank' class="headshotaffiliation"> University of Turin </a>
     </div>
 
     <div class="iblock headshotbox "> 
         <img src="" class="headshot">
         <div class="headshotname"> Maarten Sap </div>
-        <a href="#"  target='_blank' class="headshotaffiliation"> Carnegie Mellon University </a>
+        <a href="images/organizers/sap.jpg"  target='_blank' class="headshotaffiliation"> Carnegie Mellon University </a>
     </div>
     <div class="iblock headshotbox "> 
         <img src="" class="headshot">
         <div class="headshotname"> Seid Muhie Yimam </div>
-        <a href="#"  target='_blank' class="headshotaffiliation">Hambourg University</a>
+        <a href="images/organizers/yimam.jpg"  target='_blank' class="headshotaffiliation">Hambourg University</a>
     </div>
 
 
